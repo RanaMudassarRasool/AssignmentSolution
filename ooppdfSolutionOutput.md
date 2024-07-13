@@ -77,3 +77,7 @@ implementation logic adapted and the prediction results.
 
 https://github.com/user-attachments/assets/fb4e2620-52bb-46c6-be49-d17502456eee
 
+
+# Solution 
+https://drive.google.com/drive/folders/1AIGKnaLaq1LOG86j6_30fsUeFtTRu1Z3?usp=drive_link
+
